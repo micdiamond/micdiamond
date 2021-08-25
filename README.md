@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Michael Diamond (github: @micdiamond)
-- 👀 I’m interested in clinical psychology, programming, data science.
-- 🌱 I’m currently learning git, r, HLM, bipolar research, vim, doom emacs, linux.
+- 👋 Hi, I’m Michael Diamond
+- 👀 I’m interested in digital mental heatlh, programming, data science, clinical psychology.
+- 🌱 I’m currently learning git, R, Python, hierarchical linear modeling, bipolar research, doom emacs, linux.
 <!--- - 💞️ I’m looking to collaborate on... --->
 - 📫 How to reach me: 
 @michaelldiamond on twitter
