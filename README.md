@@ -1,6 +1,3 @@
-Currently available for hire! 
-Looking for full-time work in data science.
-
 To learn about me, check out my linked and my portfolio blog using the links below
 
 Linkedin: https://www.linkedin.com/in/michaeldiamond2/
